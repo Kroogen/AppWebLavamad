@@ -1,2 +1,2 @@
 # AppWebLavamad
-#poweed by Low Performance
+#powered by Low Performance
