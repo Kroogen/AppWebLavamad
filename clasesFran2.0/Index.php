@@ -4,7 +4,7 @@
  <?php
     include("header.html");
     ?>
-<body background="img/fondo2.jpg" style="background: url(img/fondo2.jpg) no-repeat center center fixed; background-size: cover;">
+<body background="img/fondo2.jpg" style="background: url(img/fondo2.jpg) no-repeat center center fixed; background-size: cover; font-family: Lucida Calligraphy;">
 	<div class="row col-12" style="position: absolute;top:100px;margin: auto;">
 		<!--caja de tamaño completo en anchura-->
 		<div class= "mr-auto col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
